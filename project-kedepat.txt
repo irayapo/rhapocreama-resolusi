@@ -1,5 +1,5 @@
 rencana project
 belajar javascript lanjut, frame javascript lainnya
+belajar laravel
+buat project lap keu
 node js
-laravel
-project lap keu
